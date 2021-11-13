@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siddharth
 - 👀 I’m interested in software development, data science and web development
-- 🌱 I’m currently learning C++, bash and JavaScript
+- 🌱 I’m currently learning C++, bash and PHP
 - 💞️ I’m looking to collaborate on developing a basic website just for learning experience
 - 📚️I am currently pursuing B.Tech in CSE from [SVVV University, Indore](https://svvv.edu.in/)
 <!---
