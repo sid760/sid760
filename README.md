@@ -1,4 +1,8 @@
-- 👋 Hi, I’m Siddharth
+<h1 align="center">Hi there 👋, I'm Siddharth </h1>
+<hr>
+<h3 align="center">Undergrad at SVVV University, Indore (Final year) </h3>
+<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" height="250" />
+</a>
   
 - 👀 I’m a Front end web developer, currently working on **MERN(JavaScript)**
 
@@ -18,4 +22,4 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sid760&theme=dark&show_icons=true" height="195" width="495" alt="Souvik_Choudhury_360" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sid760&theme=highcontrast&show_icons=true" height="195" width="495" alt="sid760" /></p>
