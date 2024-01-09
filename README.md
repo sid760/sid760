@@ -9,6 +9,8 @@
 - 🌱 I'm currently learning **React.Js & Node.Js**
   
 - 📚️ I'm pursuing B.Tech in CSE from **[SVVV University, Indore](https://svvv.edu.in/)**
+
+- 🫶 Interests - Open-source, UX Design, C++
   
 - <img width=17px src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"> Find me on LinkedIn <a href="https://www.linkedin.com/in/siddharth-m-a77806105" target="_blank" >here</a>
 
