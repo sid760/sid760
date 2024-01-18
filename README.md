@@ -41,7 +41,8 @@ You can click the Preview link to take a look at your changes.
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="Chakra-UI" src="https://img.shields.io/badge/Chakra%20UI-%1a202c7f.svg?&style=for-the-badge&logo=chakraui&logoColor=%42c7c07f"/>
+<img alt="Chakra-UI" src="https://img.shields.io/badge/Chakra%20UI-white.svg?&style=for-the-badge&logo=chakraui&logoColor=%42c7c0"/>
+<img alt="Chakra-UI" src="https://img.shields.io/badge/socket.io-gray.svg?&style=for-the-badge&logo=socket.io&logoColor=%42c7c0"/>
 </p>
 
 
