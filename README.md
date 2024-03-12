@@ -6,7 +6,7 @@
   
 - 👀 I’m a Front end web developer, currently working on **MERN(JavaScript)**
 
-- 🌱 I'm currently learning **React.Js & Node.Js**
+- 🌱 I'm currently learning **Next.Js**
   
 - 📚️ I'm pursuing B.Tech in CSE from **[SVVV University, Indore](https://svvv.edu.in/)**
 
